@@ -12,13 +12,7 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AliDeymeh/AliDeymeh/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AliDeymeh/count.svg?"  />
