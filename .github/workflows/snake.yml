@@ -18,7 +18,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ AliDeymeh }}
+          github_user_name: ${AliDeymeh}
           outputs: dist/snake.svg
 
 
@@ -27,4 +27,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-       
+        env:
+          GITHUB_TOKEN: ${{ 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 }}
